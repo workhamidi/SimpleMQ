@@ -1,0 +1,9 @@
+D:\projects\.net\RabbitMQ\Validation\obj\Debug\net6.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\RabbitMQ\Validation\obj\Debug\net6.0\Validation.AssemblyInfoInputs.cache
+D:\projects\.net\RabbitMQ\Validation\obj\Debug\net6.0\Validation.AssemblyInfo.cs
+D:\projects\.net\RabbitMQ\Validation\obj\Debug\net6.0\Validation.csproj.CoreCompileInputs.cache
+D:\projects\.net\SimpleMQ\Validation\obj\Debug\net6.0\Validation.csproj.AssemblyReference.cache
+D:\projects\.net\SimpleMQ\Validation\obj\Debug\net6.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\SimpleMQ\Validation\obj\Debug\net6.0\Validation.AssemblyInfoInputs.cache
+D:\projects\.net\SimpleMQ\Validation\obj\Debug\net6.0\Validation.AssemblyInfo.cs
+D:\projects\.net\SimpleMQ\Validation\obj\Debug\net6.0\Validation.csproj.CoreCompileInputs.cache

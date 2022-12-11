@@ -1,0 +1,19 @@
+﻿مشکل این بود که می خواستیم توی کلاس هایی که می خواهن از http api استفاده کنن
+فقط یه بار اینترفیسشون رو  بگیریم به جایی انیکه هر 2 تا شو بگیریم 
+مجبور شدیم از generic متد در کلاس non generic  استفاده کنیم ولی مشکل 
+hidden class داشتیم که با روش باید از روش 
+Convert.ChangeType 
+استفاده کرد
+Signature  method
+public ResultDto<List<T>> GetAll<T>()
+.
+.
+.
+.
+بازگشتشم باید به صورت زیر باشه
+return (ResultDto<List<T>>)Convert.ChangeType(new ResultDto<List<RabbitMQHttpApiExchangeDto>>
+            {
+                Data = exchange,
+                StatusCode = ResultStatusCodeEnum.Success
+            }, typeof(ResultDto<>));
+--------------------------------------------------------------------------------------

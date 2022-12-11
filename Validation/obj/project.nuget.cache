@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T7ApWUJV0xemXjY9PVtkFLWbfZzrE7yhjbKn7Ls0d0PzCvWxuWJmUi1D2dqXFibRCRK5kEM1ctfl4qnrbtAj5w==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\.net\\SimpleMQ\\Validation\\Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mm\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

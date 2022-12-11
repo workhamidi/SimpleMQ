@@ -1,0 +1,17 @@
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\RabbiMQHttpClientApi.deps.json
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\RabbiMQHttpClientApi.dll
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\ref\RabbiMQHttpClientApi.dll
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\RabbiMQHttpClientApi.pdb
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\Dto.dll
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\Utility.dll
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\Dto.pdb
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\bin\Debug\net6.0\Utility.pdb
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.csproj.AssemblyReference.cache
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.AssemblyInfoInputs.cache
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.AssemblyInfo.cs
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.csproj.CoreCompileInputs.cache
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.csproj.CopyComplete
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.dll
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\ref\RabbiMQHttpClientApi.dll
+D:\projects\.net\SimpleMQ\RabbiMQHttpClientApi\obj\Debug\net6.0\RabbiMQHttpClientApi.pdb

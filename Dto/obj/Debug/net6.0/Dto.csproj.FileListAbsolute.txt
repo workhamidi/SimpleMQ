@@ -1,0 +1,12 @@
+D:\projects\.net\SimpleMQ\Dto\bin\Debug\net6.0\Dto.deps.json
+D:\projects\.net\SimpleMQ\Dto\bin\Debug\net6.0\Dto.dll
+D:\projects\.net\SimpleMQ\Dto\bin\Debug\net6.0\ref\Dto.dll
+D:\projects\.net\SimpleMQ\Dto\bin\Debug\net6.0\Dto.pdb
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.dll
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\ref\Dto.dll
+D:\projects\.net\SimpleMQ\Dto\obj\Debug\net6.0\Dto.pdb

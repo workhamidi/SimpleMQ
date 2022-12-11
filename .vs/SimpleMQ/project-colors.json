@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00976dd1-abbf-4b5f-8849-913b245e7c7d": {
+      "ProjectGuid": "00976dd1-abbf-4b5f-8849-913b245e7c7d",
+      "DisplayName": "SimpleMQ",
+      "ColorIndex": 0
+    },
+    "06166ac4-afae-4d1b-9377-6ad10ec19454": {
+      "ProjectGuid": "06166ac4-afae-4d1b-9377-6ad10ec19454",
+      "DisplayName": "Validation",
+      "ColorIndex": 1
+    },
+    "16aca655-d646-4ea8-b213-23b321af0933": {
+      "ProjectGuid": "16aca655-d646-4ea8-b213-23b321af0933",
+      "DisplayName": "SimpleMQTest",
+      "ColorIndex": 2
+    },
+    "803a132f-52f4-498e-8d78-e7a5bc7bad23": {
+      "ProjectGuid": "803a132f-52f4-498e-8d78-e7a5bc7bad23",
+      "DisplayName": "Dto",
+      "ColorIndex": 3
+    },
+    "e1f2202d-0b6e-45bf-9f97-fb1234ee0d1b": {
+      "ProjectGuid": "e1f2202d-0b6e-45bf-9f97-fb1234ee0d1b",
+      "DisplayName": "Dto",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "33d48d26-8b8a-4fd4-bd84-ce2b20f6fa96": {
+      "ProjectGuid": "33d48d26-8b8a-4fd4-bd84-ce2b20f6fa96",
+      "DisplayName": "RabbiMQHttpClientApi",
+      "ColorIndex": 5
+    },
+    "f8d8c6ab-f3b8-40ad-8751-a14fb172a445": {
+      "ProjectGuid": "f8d8c6ab-f3b8-40ad-8751-a14fb172a445",
+      "DisplayName": "Utility",
+      "ColorIndex": 6
+    },
+    "ec4764e4-6e3b-4bc3-9cb5-7db350a740a9": {
+      "ProjectGuid": "ec4764e4-6e3b-4bc3-9cb5-7db350a740a9",
+      "DisplayName": "RabbitMQPackageApi",
+      "ColorIndex": 7
+    },
+    "4c5c38a0-4ecb-4268-af2c-c3d09343364a": {
+      "ProjectGuid": "4c5c38a0-4ecb-4268-af2c-c3d09343364a",
+      "DisplayName": "IoC",
+      "ColorIndex": 8
+    },
+    "88e4094a-0a02-4c44-91e4-dc0f9517f047": {
+      "ProjectGuid": "88e4094a-0a02-4c44-91e4-dc0f9517f047",
+      "DisplayName": "Documentation",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
